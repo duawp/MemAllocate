@@ -13,5 +13,5 @@
 
   ![pngtree-cartoon-skeleton-with-the-two-finger-sign-and-peace-sign-clipart-vector-png-image_6992856](https://github.com/user-attachments/assets/957c81c9-eded-4a07-a7d7-aba63f025bd7)
 
-
-      
+## GitCLone
+      git clone https://github.com/duawp/MemAllocate.git
